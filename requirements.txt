@@ -1,0 +1,6 @@
+azure-identity
+langgraph
+openai
+sentence-transformers
+streamlit
+python-dotenv
